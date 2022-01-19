@@ -1,0 +1,10 @@
+{
+  "api_gateway": "https://api.aps20.gravty.io/v1/",
+  "base_url": "api.aps20.gravty.io",
+  "build_type": "qa",
+  "x-api-key": "G1DyICzvWJ47BXuEVP9Ld1eyRbuzhseI3IY51FfK",
+  "token_type": "JWT",
+  "program_time_zone": "Asia/Dubai",
+  "use_v2_enroll": "true",
+  "program_id": 4
+}
